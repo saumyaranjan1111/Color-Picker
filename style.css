@@ -25,7 +25,7 @@ header > div{
 }
 
 main{
-    height: 80vh;
+    height: calc(100vh - 3rem);
     /* background-color: red; */
     /* text-align: center; */
     display: flex;
